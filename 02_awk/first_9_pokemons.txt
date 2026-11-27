@@ -1,0 +1,9 @@
+Name                        is of type  Type1  HP
+Bulbasaur                   is of type  Grass  45
+Ivysaur                     is of type  Grass  60
+Venusaur                    is of type  Grass  80
+Venusaur Mega Venusaur      is of type  Grass  80
+Charmander                  is of type  Fire   39
+Charmeleon                  is of type  Fire   58
+Charizard                   is of type  Fire   78
+Charizard Mega Charizard X  is of type  Fire   78
